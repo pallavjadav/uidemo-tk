@@ -1,0 +1,8 @@
+{
+    "name": "ui5demo",
+    "version": "1.0.0",
+    "description": "The UI5 demo application",
+    "scripts": {
+        "start": "ui5 serve -o index.html"
+    }
+}
