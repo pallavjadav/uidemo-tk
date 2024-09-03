@@ -1,4 +1,4 @@
-sap.ui.define([
+sap.ui.define([  //known as scaffolding template
     "sap/m/Text",
     "sap/m/Input"
 ], (Text, Input) => {
